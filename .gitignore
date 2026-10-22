@@ -19,3 +19,17 @@ Recordings/
 *.userprefs
 
 .DS_Store
+
+# Visual Studio solution (new .slnx format)
+*.slnx
+
+# Unity-MCP: contains a personal Bearer token, never commit
+.mcp.json
+.claude/settings.local.json
+
+# Unity generated
+sysinfo.txt
+*.apk
+*.aab
+*.unitypackage
+*.app
